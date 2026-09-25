@@ -1,6 +1,5 @@
-# Ahadi Kenya Population Analytics
+#  Kenya Population Analytics
 
-> **AHADI Data Scientist Technical Assessment Submission**  
 > Kenya county-level demographic analytics: reproducible data pipeline + interactive full-stack dashboard
 
 🌍 **Live Demo:** [https://frontend-sandy-tau-56.vercel.app/dashboard](https://frontend-sandy-tau-56.vercel.app/dashboard)  
